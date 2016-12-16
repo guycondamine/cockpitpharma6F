@@ -1,0 +1,112 @@
+<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="181227CA-42DE-4009-A383-FCEDCCBA4672" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
+  <controls controlCount="3">
+    <control controlID="303B834A-2FC0-4F19-B259-BE9F2233776E" controlTypeID="Image" isShow="True" caption="Image" x="0" y="0" w="1920" h="1080" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{BF5DCD54-5706-4273-9F1F-FB71646D66BF}" coords="(0,0,1920,1080)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{761213A7-FFFA-401D-90C4-D79CDFBA472C}" coords="(0,0,1920,1080)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <filter>
+          <filterType>0</filterType>
+          <filterPencilValue>2</filterPencilValue>
+          <filterSketchValue>5</filterSketchValue>
+        </filter>
+        <URL>0F6103F6B870567B807A6BF36FE298EA.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <radiusIsPercent>True</radiusIsPercent>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+      <radius>0</radius>
+    </control>
+    <control controlID="DD4AEEFD-4B7A-4BA1-8D7E-1B68B0D90FB0" controlTypeID="Shape" isShow="True" caption="Shape" x="30" y="44" w="470" h="100" measuredW="120" measuredH="100" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4282664004" isAutoSize="False" status="MsEnabled" opacity="0" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="6F1FEB5C-8814-473A-8934-DB919739812A" linkType="ltPageLink" isApplyIncludePage="False" title="A+How+does+Value+Chain+change">
+            <area shape="0" alt="" ID="{521CAA0E-1C97-4C23-9E1F-52CAFBB9A2F9}" coords="(0,0,470,100)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{A5DFBE75-8FDF-4F59-9540-F3BC7D23250D}" coords="(0,0,470,100)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+Print" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4291611852</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <thickness>2</thickness>
+        <radiusIsPercent>True</radiusIsPercent>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+      <radius>0</radius>
+    </control>
+    <control controlID="497E89CC-47BF-42A2-AB3F-F2ADD07CEA2F" controlTypeID="Image" isShow="True" caption="Image" x="62" y="57" w="422" h="87" measuredW="150" measuredH="150" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="6F1FEB5C-8814-473A-8934-DB919739812A" linkType="ltPageLink" isApplyIncludePage="False" title="G+How+to+follow+your+patient">
+            <area shape="0" alt="" ID="{33DB2887-89E9-4CFD-A821-007FD73C1F9D}" coords="(0,0,422,87)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{CBAFBF76-0558-42DE-BBE4-4A52CE738E59}" coords="(0,0,422,87)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <filter>
+          <filterType>0</filterType>
+          <filterPencilValue>2</filterPencilValue>
+          <filterSketchValue>5</filterSketchValue>
+        </filter>
+        <URL>17CBDB88332FC89157A313844539E764.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <radiusIsPercent>True</radiusIsPercent>
+      </controlProperties>
+      <radiusPercent>True</radiusPercent>
+      <radius>0</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
