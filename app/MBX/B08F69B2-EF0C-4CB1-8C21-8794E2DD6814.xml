@@ -1,5 +1,5 @@
 ﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="B08F69B2-EF0C-4CB1-8C21-8794E2DD6814" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
-  <controls controlCount="115">
+  <controls controlCount="131">
     <control controlID="73185271-8AC5-411B-8DB3-C28F3CAB8547" controlTypeID="Panel" isShow="True" caption="Panel" x="0" y="0" w="640" h="540" measuredW="0" measuredH="0" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
@@ -307,7 +307,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4294967295" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4294967295" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
           <text>How+does+Value+Chain+change%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -334,7 +334,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
           <text>How+to+support+you+HR+Strategy%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -361,7 +361,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
           <text>What's+going+on+the+battle+field%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -388,7 +388,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
           <text>How+to+follow+your+patient%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -415,7 +415,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
           <text>What+does+your+financial+departement+monitor+first%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -432,7 +432,7 @@
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-          <link targetPageID="A88A785C-B12E-4DFF-97B8-BECB0463EC8F" linkType="ltPageLink" isApplyIncludePage="False" title="E+How+can+we+help+R%26D">
+          <link targetPageID="F101C888-45D8-41B7-9507-B84C5918DC69" linkType="ltPageLink" isApplyIncludePage="False" title="D+What's+going+on+the+market+access">
             <area shape="0" alt="" ID="{B2BA47D3-AA9A-435B-A90D-894DC170F1EA}" coords="(0,0,640,80)"/>
           </link>
         </links>
@@ -442,8 +442,8 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
-          <text>How+can+we+help+R%26D%3F</text>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Trebuchet+MS" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
+          <text>What's+going+on+the+market+access%3F</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4291611852</selectedColor>
@@ -489,7 +489,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -579,7 +579,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -669,7 +669,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -759,7 +759,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -849,7 +849,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -900,7 +900,7 @@
         </groupChildrenDescriptors>
       </controlProperties>
     </control>
-    <control controlID="48513484-7098-4D84-86EF-527318623544" controlTypeID="__group__" isShow="True" caption="Group" x="560" y="724" w="48" h="48" measuredW="0" measuredH="0" zOrder="17" locked="False" sizeLocked="False">
+    <control controlID="48513484-7098-4D84-86EF-527318623544" controlTypeID="__group__" isShow="True" caption="Group" x="248" y="986" w="48" h="48" measuredW="0" measuredH="0" zOrder="17" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -939,7 +939,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -990,7 +990,7 @@
         </groupChildrenDescriptors>
       </controlProperties>
     </control>
-    <control controlID="FCE8DE6A-5D7A-4C7B-9D2E-806BB443AF59" controlTypeID="__group__" isShow="True" caption="Group" x="560" y="922" w="48" h="48" measuredW="0" measuredH="0" zOrder="18" locked="False" sizeLocked="False">
+    <control controlID="FCE8DE6A-5D7A-4C7B-9D2E-806BB443AF59" controlTypeID="__group__" isShow="True" caption="Group" x="563" y="988" w="48" h="44" measuredW="0" measuredH="0" zOrder="18" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -1000,17 +1000,17 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-            <area shape="0" alt="" ID="{59F060C8-34C6-47AB-AEB8-791EF6EFDC97}" coords="(0,0,48,48)"/>
+            <area shape="0" alt="" ID="{59F060C8-34C6-47AB-AEB8-791EF6EFDC97}" coords="(0,0,48,44)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{04E5BC40-2A1D-490D-9864-2857125E37BB}" coords="(0,0,48,48)"/>
+            <area shape="0" alt="" ID="{04E5BC40-2A1D-490D-9864-2857125E37BB}" coords="(0,0,48,44)"/>
             <events title=""/>
           </entry>
         </interactiveData>
         <groupChildrenDescriptors>
-          <control controlID="AAD8B015-FC85-44CA-AB5C-247544052E4D" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="48" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
+          <control controlID="AAD8B015-FC85-44CA-AB5C-247544052E4D" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="44" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
             <controlProperties>
               <basic color="4294111986" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
               <states/>
@@ -1020,16 +1020,16 @@
               <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
               <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
                 <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,48)"/>
+                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,44)"/>
                 </link>
               </links>
               <interactiveData>
                 <entry title="">
-                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,48)"/>
+                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,44)"/>
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1045,7 +1045,7 @@
               <thickness>1</thickness>
             </controlProperties>
           </control>
-          <control controlID="88B02C41-14D0-44B4-B682-ADE1087188EA" controlTypeID="Image" isShow="True" caption="Image" x="8" y="8" w="33" h="33" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+          <control controlID="88B02C41-14D0-44B4-B682-ADE1087188EA" controlTypeID="Image" isShow="True" caption="Image" x="8" y="7" w="33" h="30" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
             <controlProperties>
               <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
               <states/>
@@ -1055,12 +1055,12 @@
               <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
               <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
                 <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,33)"/>
+                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,30)"/>
                 </link>
               </links>
               <interactiveData>
                 <entry title="">
-                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,33)"/>
+                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,30)"/>
                   <events title=""/>
                 </entry>
               </interactiveData>
@@ -1119,7 +1119,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1209,7 +1209,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1299,7 +1299,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1389,7 +1389,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1479,7 +1479,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1530,7 +1530,7 @@
         </groupChildrenDescriptors>
       </controlProperties>
     </control>
-    <control controlID="45FC796F-BB6F-4A59-B6E4-499FA83EDB78" controlTypeID="__group__" isShow="True" caption="Group" x="1840" y="312" w="48" h="48" measuredW="0" measuredH="0" zOrder="24" locked="False" sizeLocked="False">
+    <control controlID="45FC796F-BB6F-4A59-B6E4-499FA83EDB78" controlTypeID="__group__" isShow="True" caption="Group" x="1840" y="322" w="48" h="48" measuredW="0" measuredH="0" zOrder="24" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -1569,7 +1569,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1620,7 +1620,7 @@
         </groupChildrenDescriptors>
       </controlProperties>
     </control>
-    <control controlID="7B71F11A-D1F9-4C53-B151-F7B8314B3CC1" controlTypeID="__group__" isShow="True" caption="Group" x="1840" y="433" w="48" h="48" measuredW="0" measuredH="0" zOrder="25" locked="False" sizeLocked="False">
+    <control controlID="7B71F11A-D1F9-4C53-B151-F7B8314B3CC1" controlTypeID="__group__" isShow="True" caption="Group" x="1841" y="420" w="48" h="48" measuredW="0" measuredH="0" zOrder="25" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -1659,7 +1659,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1749,7 +1749,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1839,7 +1839,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1929,7 +1929,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2019,7 +2019,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2109,7 +2109,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2199,7 +2199,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2289,7 +2289,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2379,7 +2379,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2469,7 +2469,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2539,7 +2539,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Turn+over+for+%0D%0Ahigh+value-added+products</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2566,7 +2566,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Sales+forces+dedicated+to+%0D%0Ahigh+value-added+Services</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2593,7 +2593,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Sales+forces+dedicated+to+%0D%0Ahigh+value-added+Product</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2620,7 +2620,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Sales+forces+Training+to+%0D%0Ahigh+value-added+Product</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2647,7 +2647,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Workforce+Management+Skills</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2674,7 +2674,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Talent+Management</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2701,7 +2701,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Tracking+movement+in+the+group</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2709,7 +2709,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="57BCC616-A5E9-4827-949E-A3479A0B20A8" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1381" y="108" w="438" h="33" measuredW="0" measuredH="90" zOrder="42" locked="False" sizeLocked="False">
+    <control controlID="57BCC616-A5E9-4827-949E-A3479A0B20A8" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1355" y="108" w="438" h="33" measuredW="0" measuredH="90" zOrder="42" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2728,7 +2728,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Action+Management</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2736,7 +2736,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="CBC825A4-B0DF-435D-922A-50781BC537DD" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1376" y="214" w="438" h="33" measuredW="0" measuredH="90" zOrder="43" locked="False" sizeLocked="False">
+    <control controlID="CBC825A4-B0DF-435D-922A-50781BC537DD" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1359" y="202" w="438" h="56" measuredW="0" measuredH="90" zOrder="43" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2746,16 +2746,16 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="51E15025-9264-485D-A960-E89E3E937965" linkType="ltPageLink" isApplyIncludePage="False" title="C2">
-            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,438,33)"/>
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,438,56)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,438,33)"/>
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,438,56)"/>
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Client+Coverage</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2763,7 +2763,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="1D4DD204-F482-441A-A674-4334DB274AB7" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1381" y="320" w="438" h="33" measuredW="0" measuredH="90" zOrder="44" locked="False" sizeLocked="False">
+    <control controlID="1D4DD204-F482-441A-A674-4334DB274AB7" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1371" y="322" w="438" h="33" measuredW="0" measuredH="90" zOrder="44" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2782,7 +2782,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Competitors+operation</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2790,7 +2790,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="E254AE09-5419-4C36-A117-864B42F9022A" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1402" y="411" w="438" h="91" measuredW="0" measuredH="90" zOrder="45" locked="False" sizeLocked="False">
+    <control controlID="E254AE09-5419-4C36-A117-864B42F9022A" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1311" y="384" w="534" h="91" measuredW="0" measuredH="90" zOrder="45" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2800,16 +2800,16 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="AB15A850-61AC-4590-B0C2-AD79AEA93DDE" linkType="ltPageLink" isApplyIncludePage="False" title="C4">
-            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,438,91)"/>
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,534,91)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,438,91)"/>
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,534,91)"/>
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Follow+up+on+product+adoption</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2817,7 +2817,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="55A2BF6B-D1F4-4872-914D-CF6BE299135C" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="35" y="734" w="438" h="33" measuredW="0" measuredH="90" zOrder="46" locked="False" sizeLocked="False">
+    <control controlID="55A2BF6B-D1F4-4872-914D-CF6BE299135C" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="4" y="969" w="234" h="74" measuredW="0" measuredH="90" zOrder="46" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2826,25 +2826,25 @@
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-          <link targetPageID="FA2D5B67-6180-4987-8DF4-E320B087E02E" linkType="ltPageLink" isApplyIncludePage="False" title="E1">
-            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,438,33)"/>
+          <link targetPageID="84B8AD5C-2A7E-4E98-90A9-92868691E41E" linkType="ltPageLink" isApplyIncludePage="False" title="D5+Pharmacovigilance">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,234,74)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,438,33)"/>
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,234,74)"/>
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
-          <text>Product+before+Launching</text>
+        <textSet textColor="4278190080" textSize="28" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
+          <text>Pharmacovigilance</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="03938F1E-D369-4106-ABB5-96247C168663" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="35" y="927" w="438" h="33" measuredW="0" measuredH="90" zOrder="47" locked="False" sizeLocked="False">
+    <control controlID="03938F1E-D369-4106-ABB5-96247C168663" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="260" y="997" w="337" h="33" measuredW="0" measuredH="90" zOrder="47" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -2853,18 +2853,18 @@
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-          <link targetPageID="72B67F7E-94C7-4C62-AFA8-D4560163DD9E" linkType="ltPageLink" isApplyIncludePage="False" title="E2">
-            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,438,33)"/>
+          <link targetPageID="72B67F7E-94C7-4C62-AFA8-D4560163DD9E" linkType="ltPageLink" isApplyIncludePage="False" title="D6+Clinical+Studies">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,337,33)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,438,33)"/>
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,337,33)"/>
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
-          <text>Clinical+Studies</text>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+          <text>Clinical+Trials</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
@@ -2890,7 +2890,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Inventory+Analysis</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2917,7 +2917,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Sales</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2944,7 +2944,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Profit</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2971,7 +2971,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Expenses+based+on+Objectives</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2998,7 +2998,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Brand+Recognition</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3025,7 +3025,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Survey</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3052,7 +3052,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Digital+Feedback</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3079,7 +3079,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Investigation+in+K+euros</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3087,7 +3087,7 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="3A9F8AA2-7C7A-4EAC-A211-0920F1D35E96" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1587" y="814" w="221" h="100" measuredW="0" measuredH="90" zOrder="56" locked="False" sizeLocked="False">
+    <control controlID="3A9F8AA2-7C7A-4EAC-A211-0920F1D35E96" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="1609" y="814" w="221" h="100" measuredW="0" measuredH="90" zOrder="56" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -3106,7 +3106,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Digital+activity</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3133,7 +3133,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
           <text>Analysis+of+E-reputation</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3160,7 +3160,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
         <textPadding>0</textPadding>
@@ -3195,7 +3195,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
         <textPadding>0</textPadding>
@@ -3230,7 +3230,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
         <textPadding>0</textPadding>
@@ -3265,7 +3265,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4282501083</selectedColor>
         <textPadding>0</textPadding>
@@ -3281,7 +3281,7 @@
         <thickness>1</thickness>
       </controlProperties>
     </control>
-    <control controlID="964818F6-6235-47EF-9188-8751B0847C43" controlTypeID="Image" isShow="True" caption="Image" x="20" y="856" w="110" h="166" measuredW="150" measuredH="150" zOrder="62" locked="False" sizeLocked="False">
+    <control controlID="964818F6-6235-47EF-9188-8751B0847C43" controlTypeID="Image" isShow="True" caption="Image" x="10" y="20" w="58" h="88" measuredW="150" measuredH="150" zOrder="62" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -3291,12 +3291,12 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-            <area shape="0" alt="" ID="{A9746470-DE75-43F4-9F9F-EE32FC0ED063}" coords="(0,0,110,166)"/>
+            <area shape="0" alt="" ID="{A9746470-DE75-43F4-9F9F-EE32FC0ED063}" coords="(0,0,58,88)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{15B4C91A-9CBA-4BB7-A56C-14FFD3E2CD07}" coords="(0,0,110,166)"/>
+            <area shape="0" alt="" ID="{15B4C91A-9CBA-4BB7-A56C-14FFD3E2CD07}" coords="(0,0,58,88)"/>
             <events title=""/>
           </entry>
         </interactiveData>
@@ -3311,6 +3311,474 @@
         <FlipHorizontal>False</FlipHorizontal>
         <FlipVertical>False</FlipVertical>
         <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="178A0795-2FFF-438A-B3C3-8AF200F3C038" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="325" y="653" w="228" h="163" measuredW="0" measuredH="90" zOrder="63" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="4857FE36-BAA8-49D4-955A-CAB27AD9DDB6" linkType="ltPageLink" isApplyIncludePage="False" title="D2+Pricing+and+Reimbursement+Approval">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,228,163)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,228,163)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+          <text>Pricing+and+reimbursement+approval%0D%0A</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control controlID="F716EF06-FAB7-4E73-9799-2740F5D0375A" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="10" y="677" w="228" h="84" measuredW="0" measuredH="90" zOrder="64" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="2FEFD62C-4E6B-4A64-A595-2E02021BBBBA" linkType="ltPageLink" isApplyIncludePage="False" title="D1+Marketing+Autorisation">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,228,84)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,228,84)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+          <text>Marketing+Authorisation</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control controlID="EFBE4305-40C4-4E69-88E8-6E63ECB7B4ED" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="10" y="832" w="228" h="82" measuredW="0" measuredH="90" zOrder="65" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="609119D4-616B-4543-A1DB-2E44EB2ADFAE" linkType="ltPageLink" isApplyIncludePage="False" title="D3+Regulatory+Monitoring">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,228,82)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,228,82)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+          <text>Regulatory+monitoring</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control controlID="B39DDD01-4E6F-4C32-81A1-D389507D68EF" controlTypeID="__group__" isShow="True" caption="Group" x="563" y="851" w="48" h="48" measuredW="0" measuredH="0" zOrder="66" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{5EEB790B-CDA6-44E0-84F1-43D1777D51EC}" coords="(0,0,48,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{1234BA67-60B8-4941-82DC-D596230D7E00}" coords="(0,0,48,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <groupChildrenDescriptors>
+          <control controlID="E5BF920B-6421-41BD-8B18-CBC986CF280E" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="48" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294111986" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,48)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,48)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4282501083</selectedColor>
+              <textPadding>0</textPadding>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+              <triangleType>TdZero</triangleType>
+              <dashMode>SdSolid</dashMode>
+              <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+              <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+              <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+              <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+              <radius>0</radius>
+              <radiusIsPercent>False</radiusIsPercent>
+              <thickness>1</thickness>
+            </controlProperties>
+          </control>
+          <control controlID="DFB3F14D-8D9C-4F52-AB4A-4CAB1C5DE05D" controlTypeID="Image" isShow="True" caption="Image" x="8" y="8" w="33" h="33" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>30</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,33)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,33)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <rotationAngle>TdZero</rotationAngle>
+              <clipShapeType>SbRectangle</clipShapeType>
+              <radius>0</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+              <filterType>MfNone</filterType>
+              <filterPencilValue>2</filterPencilValue>
+              <filterSketchValue>5</filterSketchValue>
+              <URL>76CAB63D8185F0241FC86D103924C766.png</URL>
+              <FlipHorizontal>False</FlipHorizontal>
+              <FlipVertical>False</FlipVertical>
+              <fitMode>2</fitMode>
+            </controlProperties>
+          </control>
+        </groupChildrenDescriptors>
+      </controlProperties>
+    </control>
+    <control controlID="2173CC10-D206-49AB-8434-CAF4146DC7CE" controlTypeID="TextArea" isShow="True" caption="Text+Area" x="325" y="826" w="228" h="82" measuredW="0" measuredH="90" zOrder="67" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="16777215" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="FA2D5B67-6180-4987-8DF4-E320B087E02E" linkType="ltPageLink" isApplyIncludePage="False" title="D4+Product+before+Launching">
+            <area shape="0" alt="" ID="{2293BB59-30E6-4CA6-9F54-B9283BEE59A0}" coords="(0,0,228,82)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{AD4C766D-C38C-4057-9DDE-8C98EA9E11EB}" coords="(0,0,228,82)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+          <text>Product+before+Launching</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control controlID="4CEEAA1F-FE6C-46AA-85B7-416901E2BBFB" controlTypeID="__group__" isShow="True" caption="Group" x="248" y="851" w="48" h="48" measuredW="0" measuredH="0" zOrder="68" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{59F060C8-34C6-47AB-AEB8-791EF6EFDC97}" coords="(0,0,48,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{04E5BC40-2A1D-490D-9864-2857125E37BB}" coords="(0,0,48,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <groupChildrenDescriptors>
+          <control controlID="890F6181-9FBF-4377-80F4-7F45219783F1" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="48" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294111986" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,48)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,48)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4282501083</selectedColor>
+              <textPadding>0</textPadding>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+              <triangleType>TdZero</triangleType>
+              <dashMode>SdSolid</dashMode>
+              <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+              <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+              <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+              <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+              <radius>0</radius>
+              <radiusIsPercent>False</radiusIsPercent>
+              <thickness>1</thickness>
+            </controlProperties>
+          </control>
+          <control controlID="CDF892E8-6B83-4190-B9B8-6D9FB4323C96" controlTypeID="Image" isShow="True" caption="Image" x="8" y="8" w="33" h="33" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>30</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,33)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,33)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <rotationAngle>TdZero</rotationAngle>
+              <clipShapeType>SbRectangle</clipShapeType>
+              <radius>0</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+              <filterType>MfNone</filterType>
+              <filterPencilValue>2</filterPencilValue>
+              <filterSketchValue>5</filterSketchValue>
+              <URL>D5A4AB37330AE77F9BC52F548A1D487F.png</URL>
+              <FlipHorizontal>False</FlipHorizontal>
+              <FlipVertical>False</FlipVertical>
+              <fitMode>2</fitMode>
+            </controlProperties>
+          </control>
+        </groupChildrenDescriptors>
+      </controlProperties>
+    </control>
+    <control controlID="689C1585-70CE-40CC-BE50-3876C834F9D5" controlTypeID="__group__" isShow="True" caption="Group" x="248" y="690" w="48" h="48" measuredW="0" measuredH="0" zOrder="69" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{5EEB790B-CDA6-44E0-84F1-43D1777D51EC}" coords="(0,0,48,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{1234BA67-60B8-4941-82DC-D596230D7E00}" coords="(0,0,48,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <groupChildrenDescriptors>
+          <control controlID="AB05A2F2-D6E6-43A2-93E2-B6800F56CFDD" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="48" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294111986" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,48)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,48)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4282501083</selectedColor>
+              <textPadding>0</textPadding>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+              <triangleType>TdZero</triangleType>
+              <dashMode>SdSolid</dashMode>
+              <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+              <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+              <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+              <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+              <radius>0</radius>
+              <radiusIsPercent>False</radiusIsPercent>
+              <thickness>1</thickness>
+            </controlProperties>
+          </control>
+          <control controlID="CEA30942-20AC-4D7D-8CFF-AED32B389DCB" controlTypeID="Image" isShow="True" caption="Image" x="8" y="8" w="33" h="33" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>30</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,33)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,33)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <rotationAngle>TdZero</rotationAngle>
+              <clipShapeType>SbRectangle</clipShapeType>
+              <radius>0</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+              <filterType>MfNone</filterType>
+              <filterPencilValue>2</filterPencilValue>
+              <filterSketchValue>5</filterSketchValue>
+              <URL>76CAB63D8185F0241FC86D103924C766.png</URL>
+              <FlipHorizontal>False</FlipHorizontal>
+              <FlipVertical>False</FlipVertical>
+              <fitMode>2</fitMode>
+            </controlProperties>
+          </control>
+        </groupChildrenDescriptors>
+      </controlProperties>
+    </control>
+    <control controlID="28128CC2-EED3-44FB-B503-ED269F285D66" controlTypeID="__group__" isShow="True" caption="Group" x="563" y="684" w="48" h="48" measuredW="0" measuredH="0" zOrder="70" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{5EEB790B-CDA6-44E0-84F1-43D1777D51EC}" coords="(0,0,48,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{1234BA67-60B8-4941-82DC-D596230D7E00}" coords="(0,0,48,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <groupChildrenDescriptors>
+          <control controlID="C657107E-5AD9-44C5-BD62-454EF813B8D7" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="0" w="48" h="48" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294111986" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>0</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{030278AB-BA78-4124-8CA9-6322D8F6CA28}" coords="(0,0,48,48)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{8BB7AA9B-F019-48EB-9D3D-4E0B513D1431}" coords="(0,0,48,48)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <selectedIndex>-1</selectedIndex>
+              <selectedColor>4282501083</selectedColor>
+              <textPadding>0</textPadding>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+              <triangleType>TdZero</triangleType>
+              <dashMode>SdSolid</dashMode>
+              <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+              <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+              <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+              <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+              <radius>0</radius>
+              <radiusIsPercent>False</radiusIsPercent>
+              <thickness>1</thickness>
+            </controlProperties>
+          </control>
+          <control controlID="1BA98F1A-2B43-495D-9160-B2C07DA2D13F" controlTypeID="Image" isShow="True" caption="Image" x="8" y="8" w="33" h="33" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+            <controlProperties>
+              <basic color="4294967295" borderVisible="False" borderColor="4278190080" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+              <states/>
+              <verticalScrollbarShow>False</verticalScrollbarShow>
+              <verticalScrollbarProgress>30</verticalScrollbarProgress>
+              <horizontalScrollbarShow>False</horizontalScrollbarShow>
+              <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+                  <area shape="0" alt="" ID="{2F5F360A-14C1-4DB5-9397-EEFC276D20D9}" coords="(0,0,33,33)"/>
+                </link>
+              </links>
+              <interactiveData>
+                <entry title="">
+                  <area shape="0" alt="" ID="{E166A522-9D7E-444F-A75A-7A2E0F204C06}" coords="(0,0,33,33)"/>
+                  <events title=""/>
+                </entry>
+              </interactiveData>
+              <rotationAngle>TdZero</rotationAngle>
+              <clipShapeType>SbRectangle</clipShapeType>
+              <radius>0</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+              <filterType>MfNone</filterType>
+              <filterPencilValue>2</filterPencilValue>
+              <filterSketchValue>5</filterSketchValue>
+              <URL>76CAB63D8185F0241FC86D103924C766.png</URL>
+              <FlipHorizontal>False</FlipHorizontal>
+              <FlipVertical>False</FlipVertical>
+              <fitMode>2</fitMode>
+            </controlProperties>
+          </control>
+        </groupChildrenDescriptors>
       </controlProperties>
     </control>
   </controls>

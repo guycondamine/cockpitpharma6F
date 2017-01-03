@@ -1,4 +1,4 @@
-<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="32BEC3E7-3F4A-434E-8973-7D54A24193F3" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
+﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="32BEC3E7-3F4A-434E-8973-7D54A24193F3" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
   <controls controlCount="3">
     <control controlID="303B834A-2FC0-4F19-B259-BE9F2233776E" controlTypeID="Image" isShow="True" caption="Image" x="0" y="0" w="1920" h="1080" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>
@@ -51,7 +51,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+Print" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" textStyles="[]" useDefaultTextSize="True"/>
+        <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+Print" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="21" textStyles="[]" useDefaultTextSize="True"/>
         <selectedIndex>-1</selectedIndex>
         <selectedColor>4291611852</selectedColor>
         <textPadding>0</textPadding>

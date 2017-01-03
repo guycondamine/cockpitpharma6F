@@ -1,10 +1,10 @@
-﻿<project version="2.1" name="Mockplus Vic Pharma" ID="74930E42-0A47-47AE-B05F-940C0E2FE913" addTime="2016-07-13">
+﻿<project version="2.1" name="Mockplus Vic Pharma V15" ID="74930E42-0A47-47AE-B05F-940C0E2FE913" addTime="2016-07-13">
   <params>
     <pageParam version="4.2" minAllowVersion="4.1"/>
     <projectParam version="2.1" minAllowVersion="2.0" platform="MtCustom" pageSize="(1920,1080)" backgroundColor="4294967295" fontSize="0" fontFamily="" from="FmLocal"/>
   </params>
   <modules>
-    <page name="Page" ID="B08F69B2-EF0C-4CB1-8C21-8794E2DD6814" expanded="True" code="8S3bHhqUbE" thumbCode="sq8sSImArQ" status="psWhite" isLastOpen="True">
+    <page name="Page" ID="B08F69B2-EF0C-4CB1-8C21-8794E2DD6814" expanded="True" code="MfQWChZBHA" thumbCode="7z5oW2ktj5" status="psWhite" isLastOpen="True">
       <images>
         <image key="D5A4AB37330AE77F9BC52F548A1D487F.png"/>
         <image key="76CAB63D8185F0241FC86D103924C766.png"/>
@@ -12,7 +12,7 @@
         <image key="96AEDA02FD54584753195322C8339BD0.png"/>
       </images>
     </page>
-    <page name="A How does Value Chain change" ID="33B7B581-0CDC-49E0-BDFF-915F38733FCA" expanded="True" code="WgDsImF6g8" thumbCode="WgDsImF6g8" status="psWhite">
+    <page name="A How does Value Chain change" ID="33B7B581-0CDC-49E0-BDFF-915F38733FCA" expanded="True" code="fJHYuGcn3r" thumbCode="fJHYuGcn3r" status="psWhite">
       <images>
         <image key="B763901DE0352E36F9E7AE9B2DFD6526.png"/>
         <image key="6FF92E47FDC9ECC0515FCBDE9C94EFE6.png"/>
@@ -44,7 +44,7 @@
         </images>
       </page>
     </page>
-    <page name="B How to support your HR Strategy" ID="E94669FB-073C-4E25-A47E-F89EB3FFD1F2" expanded="True" code="dtBrPKkW1J" thumbCode="dtBrPKkW1J" status="psWhite">
+    <page name="B How to support your HR Strategy" ID="E94669FB-073C-4E25-A47E-F89EB3FFD1F2" expanded="True" code="Se9nJFrJED" thumbCode="Se9nJFrJED" status="psWhite">
       <images>
         <image key="77A974DA8187B7EC0DC2E1DD8D7DB152.png"/>
         <image key="74EB8C3E7043A43ED495D371F0E80E37.png"/>
@@ -102,39 +102,90 @@
         </images>
       </page>
     </page>
-    <page name="D What are the good digital KPI's for pharmaceutical" ID="8723945F-D27B-40E3-A6EC-A9195114E86A" expanded="True" code="siy9m6zD9N" thumbCode="siy9m6zD9N" status="psWhite">
+    <page name="OLD D What are the good digital KPI's for pharmaceutical" ID="8723945F-D27B-40E3-A6EC-A9195114E86A" expanded="True" code="nv1pmwQgan" thumbCode="nv1pmwQgan" status="psWhite">
       <images>
         <image key="26DBF23883EE3BB40AC8FC8E56B2D33A.png"/>
         <image key="28F54EECBD11F3342736F3A57D58891B.png"/>
         <image key="B7A84155FCAAE58D787462184A32B963.png"/>
         <image key="FB3962A1839AA24B960EB90BA136E47D.png"/>
       </images>
-      <page name="D1" ID="A7CCD358-7A3C-4B4E-B217-698DBE6FEB97" expanded="True" code="zSw1JzxT2N" thumbCode="zSw1JzxT2N" status="psWhite">
+      <page name="old D1" ID="A7CCD358-7A3C-4B4E-B217-698DBE6FEB97" expanded="True" code="7mtq5dCK2D" thumbCode="7mtq5dCK2D" status="psWhite">
         <images>
           <image key="26DBF23883EE3BB40AC8FC8E56B2D33A.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="D2" ID="32BEC3E7-3F4A-434E-8973-7D54A24193F3" expanded="True" code="HV6Ga63TKL" thumbCode="HV6Ga63TKL" status="psWhite">
+      <page name="old D2" ID="32BEC3E7-3F4A-434E-8973-7D54A24193F3" expanded="True" code="fgkfsizc3q" thumbCode="fgkfsizc3q" status="psWhite">
         <images>
           <image key="28F54EECBD11F3342736F3A57D58891B.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="D3" ID="567E7E75-AA08-4A6B-9B9D-3314FF6F8387" expanded="True" code="GC86KMziSj" thumbCode="GC86KMziSj" status="psWhite">
+      <page name="old D3" ID="567E7E75-AA08-4A6B-9B9D-3314FF6F8387" expanded="True" code="38JxpdW9zx" thumbCode="38JxpdW9zx" status="psWhite">
         <images>
           <image key="B7A84155FCAAE58D787462184A32B963.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="D4" ID="BBA44491-FA53-4683-9CCD-F748A3427F2D" expanded="True" code="9yCCND7VQJ" thumbCode="9yCCND7VQJ" status="psWhite">
+      <page name="old D4" ID="BBA44491-FA53-4683-9CCD-F748A3427F2D" expanded="False" code="YXOcoAJSkY" thumbCode="YXOcoAJSkY" status="psWhite">
         <images>
           <image key="FB3962A1839AA24B960EB90BA136E47D.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
     </page>
-    <page name="E How can we help R&amp;D" ID="A88A785C-B12E-4DFF-97B8-BECB0463EC8F" expanded="True" code="R9uTe8Gbcy" thumbCode="R9uTe8Gbcy" status="psWhite">
+    <page name="D What's going on the market access" ID="F101C888-45D8-41B7-9507-B84C5918DC69" expanded="True" code="Ms16gX5ied" thumbCode="WFZY5MgYCT" status="psWhite">
+      <images>
+        <image key="AB91044423F7E4E535C4F6565BF42B52.png"/>
+        <image key="AF75881C74C61679A8619021A141353E.png"/>
+        <image key="BB511384432A589CE8AB6AAA3A4AB41F.png"/>
+        <image key="76CAB63D8185F0241FC86D103924C766.png"/>
+        <image key="D5A4AB37330AE77F9BC52F548A1D487F.png"/>
+        <image key="FD30B6F21D9194A2BDDF4DB1562ECE03.png"/>
+        <image key="9937DBEF4F395B79D3D651B15591E2EF.png"/>
+        <image key="276696A98048CBB15050868CEE6F8E9E.png"/>
+        <image key="17CBDB88332FC89157A313844539E764.png"/>
+        <image key="6831DDD5F63DB7FD9963449255FEE76A.png"/>
+      </images>
+      <page name="D1 Marketing Autorisation" ID="2FEFD62C-4E6B-4A64-A595-2E02021BBBBA" expanded="True" code="9QwRxlkF4Y" thumbCode="9QwRxlkF4Y" status="psWhite">
+        <images>
+          <image key="9B925FF3C1F640E7C25E2007474293BC.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+        </images>
+      </page>
+      <page name="D2 Pricing and Reimbursement Approval" ID="4857FE36-BAA8-49D4-955A-CAB27AD9DDB6" expanded="True" code="7V8Fn5kwC4" thumbCode="7V8Fn5kwC4" status="psWhite">
+        <images>
+          <image key="052C2F0BF406C97F639769878C973877.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+        </images>
+      </page>
+      <page name="D3 Regulatory Monitoring" ID="609119D4-616B-4543-A1DB-2E44EB2ADFAE" expanded="True" code="sLHAzyERfl" thumbCode="sLHAzyERfl" status="psWhite">
+        <images>
+          <image key="7141775C7DAF20D9EA4420A82EA6C27B.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+        </images>
+      </page>
+      <page name="D4 Product before Launching" ID="FA2D5B67-6180-4987-8DF4-E320B087E02E" expanded="True" code="5vSwR2bzCv" thumbCode="5vSwR2bzCv" status="psWhite">
+        <images>
+          <image key="9C97FBFB5C6A27BB631D516F03F89867.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+        </images>
+      </page>
+      <page name="D5 Pharmacovigilance" ID="84B8AD5C-2A7E-4E98-90A9-92868691E41E" expanded="True" code="z99QCXdlDu" thumbCode="hx8NavJAVf" status="psWhite">
+        <images>
+          <image key="F5D4D50B25C6A3328F76E98AF42F9D7D.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+          <image key="6831DDD5F63DB7FD9963449255FEE76A.png"/>
+        </images>
+      </page>
+      <page name="D6 Clinical Studies" ID="72B67F7E-94C7-4C62-AFA8-D4560163DD9E" expanded="True" code="M2ZKL6AT3K" thumbCode="M2ZKL6AT3K" status="psWhite">
+        <images>
+          <image key="0EBE795E0B9AFEAFAB4F56410BF0FF40.png"/>
+          <image key="17CBDB88332FC89157A313844539E764.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="E oldWhat's going on the market access" ID="A88A785C-B12E-4DFF-97B8-BECB0463EC8F" expanded="True" code="xtFVqRCuCL" thumbCode="xtFVqRCuCL" status="psWhite">
       <images>
         <image key="17CBDB88332FC89157A313844539E764.png"/>
         <image key="20A797CAE24601AE8710C62013605163.png"/>
@@ -142,20 +193,8 @@
         <image key="76CAB63D8185F0241FC86D103924C766.png"/>
         <image key="D5A4AB37330AE77F9BC52F548A1D487F.png"/>
       </images>
-      <page name="E1" ID="FA2D5B67-6180-4987-8DF4-E320B087E02E" expanded="True" code="4CqfgezLbm" thumbCode="4CqfgezLbm" status="psWhite">
-        <images>
-          <image key="9C97FBFB5C6A27BB631D516F03F89867.png"/>
-          <image key="17CBDB88332FC89157A313844539E764.png"/>
-        </images>
-      </page>
-      <page name="E2" ID="72B67F7E-94C7-4C62-AFA8-D4560163DD9E" expanded="True" code="3DYyOR5aTw" thumbCode="3DYyOR5aTw" status="psWhite">
-        <images>
-          <image key="1684341A5F04410F43BDBF3A94ADDC6D.png"/>
-          <image key="17CBDB88332FC89157A313844539E764.png"/>
-        </images>
-      </page>
     </page>
-    <page name="F What does your financial departement monitor first" ID="A8CCFA4F-AF41-41D9-84B5-4F5A6E82100C" expanded="True" code="TOmQWNHI8P" thumbCode="TOmQWNHI8P" status="psWhite">
+    <page name="F What does your financial departement monitor first" ID="A8CCFA4F-AF41-41D9-84B5-4F5A6E82100C" expanded="True" code="WTRexe29H3" thumbCode="WTRexe29H3" status="psWhite">
       <images>
         <image key="D192D10C6DEF773A1ECE627B483A7E3C.png"/>
         <image key="114F260D6B0A2F749D009DD670D63D07.png"/>
@@ -187,7 +226,7 @@
         </images>
       </page>
     </page>
-    <page name="G How to follow your patient" ID="6F1FEB5C-8814-473A-8934-DB919739812A" expanded="True" code="FxcJmQ1nCl" thumbCode="FxcJmQ1nCl" status="psWhite">
+    <page name="G How to follow your patient" ID="6F1FEB5C-8814-473A-8934-DB919739812A" expanded="True" code="9n3PbZTean" thumbCode="9n3PbZTean" status="psWhite">
       <images>
         <image key="116231993973560A50FA25C3107ADF64.png"/>
         <image key="570563B4C3DB132B2F928F32FE3D1CE6.png"/>
@@ -196,37 +235,37 @@
         <image key="DFD4BCA515DD6281032CD5D8C7C7938D.png"/>
         <image key="0F6103F6B870567B807A6BF36FE298EA.png"/>
       </images>
-      <page name="G1" ID="34BBACE3-92B3-48EF-AC92-58CD57C3E257" expanded="True" code="oVuD532uQj" thumbCode="oVuD532uQj" status="psWhite">
+      <page name="G1" ID="34BBACE3-92B3-48EF-AC92-58CD57C3E257" expanded="True" code="QAuOsgWcEP" thumbCode="QAuOsgWcEP" status="psWhite">
         <images>
           <image key="116231993973560A50FA25C3107ADF64.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="G2" ID="0D62CC4D-4977-478A-9291-74A96CACC14F" expanded="True" code="B6k6rVoOaD" thumbCode="B6k6rVoOaD" status="psWhite">
+      <page name="G2" ID="0D62CC4D-4977-478A-9291-74A96CACC14F" expanded="True" code="VBSkeNmMh1" thumbCode="VBSkeNmMh1" status="psWhite">
         <images>
           <image key="DFD4BCA515DD6281032CD5D8C7C7938D.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="G3" ID="05F17275-8BD2-488F-A603-8A2B8C7A426B" expanded="True" code="TmBAoVj73I" thumbCode="TmBAoVj73I" status="psWhite">
+      <page name="G3" ID="05F17275-8BD2-488F-A603-8A2B8C7A426B" expanded="True" code="cgCSCiq8MY" thumbCode="cgCSCiq8MY" status="psWhite">
         <images>
           <image key="570563B4C3DB132B2F928F32FE3D1CE6.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="G4" ID="B61A6E40-FBBA-4EC9-AE3A-E8406F941C6B" expanded="True" code="yRS494Rcal" thumbCode="yRS494Rcal" status="psWhite">
+      <page name="G4" ID="B61A6E40-FBBA-4EC9-AE3A-E8406F941C6B" expanded="True" code="ivfBHYiGCK" thumbCode="ivfBHYiGCK" status="psWhite">
         <images>
           <image key="A74161E264756B047BA59DB97A94BF93.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="G5" ID="A858D3C4-B0F7-4396-B0C3-1E527AE50D51" expanded="True" code="tdNMDk8juo" thumbCode="tdNMDk8juo" status="psWhite">
+      <page name="G5" ID="A858D3C4-B0F7-4396-B0C3-1E527AE50D51" expanded="True" code="1FGUycyDe9" thumbCode="1FGUycyDe9" status="psWhite">
         <images>
           <image key="5445FF6830BFA07D3CEEEB3FC0E9C6E6.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
         </images>
       </page>
-      <page name="G6" ID="181227CA-42DE-4009-A383-FCEDCCBA4672" expanded="True" code="je1x99L7yH" thumbCode="je1x99L7yH" status="psWhite">
+      <page name="G6" ID="181227CA-42DE-4009-A383-FCEDCCBA4672" expanded="True" code="Wh3wTvkOi2" thumbCode="Wh3wTvkOi2" status="psWhite">
         <images>
           <image key="0F6103F6B870567B807A6BF36FE298EA.png"/>
           <image key="17CBDB88332FC89157A313844539E764.png"/>
@@ -267,7 +306,7 @@
         </images>
       </page>
     </page>
-    <page name="xHome" ID="BF29B6A7-9D6B-4C28-8D9D-1900EC193279" expanded="True" code="XEC2qed14O" thumbCode="XEC2qed14O" status="psWhite">
+    <page name="xHome" ID="BF29B6A7-9D6B-4C28-8D9D-1900EC193279" expanded="True" code="k383I8xpnB" thumbCode="k383I8xpnB" status="psWhite">
       <images>
         <image key="9523FBB4C1153FDDEC47398138A1A345.png"/>
         <image key="73F0B8F82DA3E9E1B727E272B0DE3685.png"/>
@@ -319,7 +358,6 @@
     <image key="4A41F42DE00B09E20E1258AC1B53B473.png"/>
     <image key="F2711AB1DF7AD65B8BBE6201E3F46F98.png"/>
     <image key="9C97FBFB5C6A27BB631D516F03F89867.png"/>
-    <image key="1684341A5F04410F43BDBF3A94ADDC6D.png"/>
     <image key="D192D10C6DEF773A1ECE627B483A7E3C.png"/>
     <image key="114F260D6B0A2F749D009DD670D63D07.png"/>
     <image key="5FD4F87409E1549DF4B9209E423C2C0E.png"/>
@@ -374,6 +412,18 @@
     <image key="20A797CAE24601AE8710C62013605163.png"/>
     <image key="664E82E4BEF2D90073C18FAEDADF46C2.png"/>
     <image key="C633005DE162598ADB883DAFD18FA23E.png"/>
+    <image key="FD30B6F21D9194A2BDDF4DB1562ECE03.png"/>
+    <image key="BB511384432A589CE8AB6AAA3A4AB41F.png"/>
+    <image key="AF75881C74C61679A8619021A141353E.png"/>
+    <image key="AB91044423F7E4E535C4F6565BF42B52.png"/>
+    <image key="052C2F0BF406C97F639769878C973877.png"/>
+    <image key="9B925FF3C1F640E7C25E2007474293BC.png"/>
+    <image key="9937DBEF4F395B79D3D651B15591E2EF.png"/>
+    <image key="7141775C7DAF20D9EA4420A82EA6C27B.png"/>
+    <image key="276696A98048CBB15050868CEE6F8E9E.png"/>
+    <image key="F5D4D50B25C6A3328F76E98AF42F9D7D.png"/>
+    <image key="6831DDD5F63DB7FD9963449255FEE76A.png"/>
+    <image key="0EBE795E0B9AFEAFAB4F56410BF0FF40.png"/>
   </images>
   <others>
     <favoriteColors/>

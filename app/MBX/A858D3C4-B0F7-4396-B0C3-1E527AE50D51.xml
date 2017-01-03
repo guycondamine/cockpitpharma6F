@@ -1,4 +1,4 @@
-<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="A858D3C4-B0F7-4396-B0C3-1E527AE50D51" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
+﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="A858D3C4-B0F7-4396-B0C3-1E527AE50D51" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
   <controls controlCount="3">
     <control controlID="303B834A-2FC0-4F19-B259-BE9F2233776E" controlTypeID="Image" isShow="True" caption="Image" x="0" y="0" w="1920" h="1080" measuredW="150" measuredH="150" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>

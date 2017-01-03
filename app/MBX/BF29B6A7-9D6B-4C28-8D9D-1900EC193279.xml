@@ -1,4 +1,4 @@
-<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="BF29B6A7-9D6B-4C28-8D9D-1900EC193279" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
+﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="BF29B6A7-9D6B-4C28-8D9D-1900EC193279" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
   <controls controlCount="159">
     <control controlID="B6B27A50-8638-4F91-9150-C53E8364F28B" controlTypeID="Panel" isShow="True" caption="Panel" x="0" y="0" w="480" h="540" measuredW="0" measuredH="0" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>

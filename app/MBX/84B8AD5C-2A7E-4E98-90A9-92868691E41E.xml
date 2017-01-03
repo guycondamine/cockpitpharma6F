@@ -1,5 +1,5 @@
-﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="72B67F7E-94C7-4C62-AFA8-D4560163DD9E" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
-  <controls controlCount="3">
+﻿<mockup version="4.2" platform="MtCustom" defaultW="1920" defaultH="1080" from="FmLocal" ID="84B8AD5C-2A7E-4E98-90A9-92868691E41E" measureW="1920" measureH="1080" mobileScreenScale="0" minAllowVersion="4.1">
+  <controls controlCount="4">
     <control controlID="DD4AEEFD-4B7A-4BA1-8D7E-1B68B0D90FB0" controlTypeID="Shape" isShow="True" caption="Shape" x="30" y="44" w="470" h="100" measuredW="120" measuredH="100" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="True" borderColor="4282664004" isAutoSize="False" status="MsEnabled" opacity="0" isCommentCom="False" canMove="True" alias="" rotation="0"/>
@@ -35,7 +35,7 @@
         <thickness>2</thickness>
       </controlProperties>
     </control>
-    <control controlID="DD0E0CE7-CF84-4A61-A0C5-B045CEA1B920" controlTypeID="Image" isShow="True" caption="Image" x="0" y="0" w="1828" h="1060" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
+    <control controlID="2273B28C-AB66-49AD-BA17-62AB3B9462E0" controlTypeID="Image" isShow="True" caption="Image" x="0" y="0" w="1814" h="1053" measuredW="150" measuredH="150" zOrder="1" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -45,12 +45,12 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-            <area shape="0" alt="" ID="{23C28BAC-466A-4CAC-AE3B-B7217342294E}" coords="(0,0,1828,1060)"/>
+            <area shape="0" alt="" ID="{D16559B4-8C94-4E37-A9F7-D7E052787A12}" coords="(0,0,1814,1053)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{7325EB96-EEF3-411F-B23F-97D9B27836D9}" coords="(0,0,1828,1060)"/>
+            <area shape="0" alt="" ID="{30B3B712-284A-4262-A3D4-031D81EBED80}" coords="(0,0,1814,1053)"/>
             <events title=""/>
           </entry>
         </interactiveData>
@@ -61,7 +61,7 @@
         <filterType>MfNone</filterType>
         <filterPencilValue>2</filterPencilValue>
         <filterSketchValue>5</filterSketchValue>
-        <URL>0EBE795E0B9AFEAFAB4F56410BF0FF40.png</URL>
+        <URL>F5D4D50B25C6A3328F76E98AF42F9D7D.png</URL>
         <FlipHorizontal>False</FlipHorizontal>
         <FlipVertical>False</FlipVertical>
         <fitMode>2</fitMode>
@@ -94,6 +94,38 @@
         <filterPencilValue>2</filterPencilValue>
         <filterSketchValue>5</filterSketchValue>
         <URL>17CBDB88332FC89157A313844539E764.png</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+      </controlProperties>
+    </control>
+    <control controlID="BF515E9F-F47E-4C64-B2CB-B9A0ADBA2F43" controlTypeID="Image" isShow="True" caption="Image" x="20" y="219" w="1321" h="679" measuredW="150" measuredH="150" zOrder="3" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{66BAFACE-36B6-4E4F-8372-2B9E197C4C08}" coords="(0,0,1321,679)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{86EABDE8-BB4C-4FA7-A12A-38CA25D3E185}" coords="(0,0,1321,679)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL>6831DDD5F63DB7FD9963449255FEE76A.png</URL>
         <FlipHorizontal>False</FlipHorizontal>
         <FlipVertical>False</FlipVertical>
         <fitMode>2</fitMode>
