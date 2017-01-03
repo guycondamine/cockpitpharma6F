@@ -849,7 +849,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -939,7 +939,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1029,7 +1029,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1299,7 +1299,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1389,7 +1389,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1479,7 +1479,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1569,7 +1569,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1659,7 +1659,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1749,7 +1749,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1839,7 +1839,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -1929,7 +1929,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2019,7 +2019,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2109,7 +2109,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2199,7 +2199,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -2836,7 +2836,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="28" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="37" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="28" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Pharmacovigilance</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2863,7 +2863,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Clinical+Trials</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2944,7 +2944,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Profit</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -2971,7 +2971,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Expenses+based+on+Objectives</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3025,7 +3025,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Survey</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3052,7 +3052,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Digital+Feedback</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3079,7 +3079,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Investigation+in+K+euros</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3106,7 +3106,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Digital+activity</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3133,7 +3133,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Analysis+of+E-reputation</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3281,7 +3281,7 @@
         <thickness>1</thickness>
       </controlProperties>
     </control>
-    <control controlID="964818F6-6235-47EF-9188-8751B0847C43" controlTypeID="Image" isShow="True" caption="Image" x="10" y="20" w="58" h="88" measuredW="150" measuredH="150" zOrder="62" locked="False" sizeLocked="False">
+    <control controlID="964818F6-6235-47EF-9188-8751B0847C43" controlTypeID="Image" isShow="True" caption="Image" x="10" y="36" w="58" h="88" measuredW="150" measuredH="150" zOrder="62" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4294967295" borderVisible="False" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -3386,7 +3386,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Regulatory+monitoring</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3433,7 +3433,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>
@@ -3503,7 +3503,7 @@
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="43" textStyles="[]" useDefaultTextSize="False">
+        <textSet textColor="4278190080" textSize="32" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="False">
           <text>Product+before+Launching</text>
         </textSet>
         <selectedIndex>-1</selectedIndex>
@@ -3550,7 +3550,7 @@
                   <events title=""/>
                 </entry>
               </interactiveData>
-              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="16" textStyles="[]" useDefaultTextSize="True"/>
+              <textSet textColor="4278190080" textSize="12" textFontFamily="Segoe+UI" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="0" textStyles="[]" useDefaultTextSize="True"/>
               <selectedIndex>-1</selectedIndex>
               <selectedColor>4282501083</selectedColor>
               <textPadding>0</textPadding>

@@ -9,7 +9,7 @@
         <horizontalScrollbarShow>False</horizontalScrollbarShow>
         <horizontalScrollbarProgress>30</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-          <link targetPageID="A88A785C-B12E-4DFF-97B8-BECB0463EC8F" linkType="ltPageLink" isApplyIncludePage="False" title="A+How+does+Value+Chain+change">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="A+How+does+Value+Chain+change">
             <area shape="0" alt="" ID="{521CAA0E-1C97-4C23-9E1F-52CAFBB9A2F9}" coords="(0,0,470,100)"/>
           </link>
         </links>
